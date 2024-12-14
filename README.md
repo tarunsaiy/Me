@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarunsaiy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunsaiy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <p align="left">Aspiring Software Development Engineer | Proficient in Java | Passionate About Building Scalable Solutions<br><br>I am a motivated and detail-oriented aspiring Software Development Engineer with a strong foundation in Java programming and a passion for crafting robust, efficient, and scalable software solutions. My expertise spans object-oriented design, data structures, algorithms, and system design, backed by hands-on experience building applications and contributing to collaborative projects.</p>
 
 ###
@@ -51,5 +58,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/tarunsaiy/tarunsaiy/output/snake.svg" alt="Snake animation" />
 
 ###
