@@ -2,6 +2,14 @@
 
 ###
 
+<p align="left">Aspiring Software Development Engineer | Proficient in Java | Passionate About Building Scalable Solutions<br><br>I am a motivated and detail-oriented aspiring Software Development Engineer with a strong foundation in Java programming and a passion for crafting robust, efficient, and scalable software solutions. My expertise spans object-oriented design, data structures, algorithms, and system design, backed by hands-on experience building applications and contributing to collaborative projects.</p>
+
+###
+
+<h2 align="center">Languages & Skills</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -42,6 +50,12 @@
   <a href="www.linkedin.com/in/tarunsaiyendava" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=tarunsaiy" alt="Layout with last medium posts"  />
 </div>
 
 ###
