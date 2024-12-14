@@ -61,6 +61,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tarunsaiy/tarunsaiy/output/snake.svg" alt="Snake animation" />
 
 ###
