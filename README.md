@@ -53,6 +53,10 @@
 
 ###
 
+<h2 align="center">Social Media and Connections</h2>
+
+###
+
 <div align="left">
   <a href="www.linkedin.com/in/tarunsaiyendava" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -61,5 +65,12 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/tarunsaiy/tarunsaiy/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tarunsaiy/count.svg?"  />
+</div>
 
 ###
